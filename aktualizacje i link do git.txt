@@ -1,0 +1,2 @@
+wersja 1.prosta stronka z Czasem spędzonym w danej aplikacji
+wersja 2.dodany został krótki skrypt oraz trochę css przez co po kliknięciu w przycisk zmienia się krój strony z ciemnego na jasny i na odwrót
